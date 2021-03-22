@@ -19,13 +19,11 @@ def load_data():
     return rec
 
 
-# %%
 rec = load_data()
 
 # %%
 # st.write("Upload a deck")
 uploaeded_deck = st.file_uploader("Upload a deck", type=["jpg", "jpeg"])
-
 
 # %%
 
@@ -43,7 +41,18 @@ if uploaeded_deck is not None:
     # %%
     box_cards = rec.box_texts_to_cards(box_texts)
     rec._assign_stacked(box_texts, box_cards)
-    box_cards.save_image("EwjawBtVkAA1T2_.jpeg", "image.jpg")
+    box_cards.save_image("deck.jpg", "image.jpg")
     st.image("image.jpg")
 
-# %%
+# # # %%
+# for card in deck.maindeck.cards:
+#     print(card)
+# # # %%
+# import requests
+
+# price = requests.get(
+#     "http://magictcgprices.appspot.com/api/cfb/price.json?cardname=Dark%20Confidant&setname=ravnica"
+# )
+# # %%
+# print(price.text)
+# # %%
