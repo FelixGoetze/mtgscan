@@ -1,0 +1,400 @@
+Axgard Braggart$1
+Battershield Warrior$1
+Battlefield Raptor$1
+Beskir Shieldmate$1
+Bound in Gold$1
+Clarion Spirit$1
+Codespell Cleric$1
+Divine Gambit$1
+Doomskar$1
+Doomskar Oracle$1
+Giant Ox$1
+Glorious Protector$1
+Gods' Hall Guardian$1
+Goldmaw Champion$1
+Halvar, God of Battle$1
+Invoke the Divine$1
+Iron Verdict$1
+Kaya's Onslaught$1
+Master Skald$1
+Rally the Ranks$1
+Reidane, God of the Worthy$1
+Resplendent Marshal$1
+Revitalize$1
+Righteous Valkyrie$1
+Rune of Sustenance$1
+Runeforge Champion$1
+Search for Glory$1
+Shepherd of the Cosmos$1
+Sigrid, God-Favored$1
+Spectral Steel$1
+Stalwart Valkyrie$1
+Starnheim Courser$1
+Starnheim Unleashed$1
+Story Seeker$1
+Usher of the Fallen$1
+Valkyrie's Sword$1
+Valor of the Worthy$1
+Warhorn Blast$1
+Wings of the Cosmos$1
+Alrund, God of the Cosmos$1
+Alrund's Epiphany$1
+Annul$1
+Ascendant Spirit$1
+Augury Raven$1
+Avalanche Caller$1
+Behold the Multiverse$1
+Berg Strider$1
+Bind the Monster$1
+Brinebarrow Intruder$1
+Cosima, God of the Voyage$1
+Cosmos Charger$1
+Cyclone Summoner$1
+Depart the Realm$1
+Disdainful Stroke$1
+Draugr Thought-Thief$1
+Frost Augur$1
+Frostpeak Yeti$1
+Frostpyre Arcanist$1
+Giant's Amulet$1
+Glimpse the Cosmos$1
+Graven Lore$1
+Icebind Pillar$1
+Icebreaker Kraken$1
+Inga Rune-Eyes$1
+Karfell Harbinger$1
+Littjara Kinseekers$1
+Mists of Littjara$1
+Mistwalker$1
+Mystic Reflection$1
+Orvar, the All-Form$1
+Pilfering Hawk$1
+Ravenform$1
+Reflections of Littjara$1
+Run Ashore$1
+Rune of Flight$1
+Saw It Coming$1
+Strategic Planning$1
+Undersea Invader$1
+Blood on the Snow$1
+Bloodsky Berserker$1
+Burning-Rune Demon$1
+Crippling Fear$1
+Deathknell Berserker$1
+Demonic Gifts$1
+Dogged Pursuit$1
+Draugr Necromancer$1
+Draugr Recruiter$1
+Draugr's Helm$1
+Dread Rider$1
+Dream Devourer$1
+Duskwielder$1
+Egon, God of Death$1
+Elderfang Disciple$1
+Eradicator Valkyrie$1
+Feed the Serpent$1
+Grim Draugr$1
+Hailstorm Valkyrie$1
+Haunting Voyage$1
+Infernal Pet$1
+Jarl of the Forsaken$1
+Karfell Kennel-Master$1
+Koma's Faithful$1
+Poison the Cup$1
+Priest of the Haunted Edge$1
+Raise the Draugr$1
+Return Upon the Tide$1
+Rise of the Dread Marn$1
+Rune of Mortality$1
+Skemfar Avenger$1
+Skemfar Shadowsage$1
+Skull Raid$1
+Tergrid, God of Fright$1
+Tergrid's Shadow$1
+Valki, God of Lies$1
+Varragoth, Bloodsky Sire$1
+Vengeful Reaper$1
+Village Rites$1
+Weigh Down$1
+Withercrown$1
+Arni Brokenbrow$1
+Axgard Cavalry$1
+Basalt Ravager$1
+Birgi, God of Storytelling$1
+Breakneck Berserker$1
+Calamity Bearer$1
+Cinderheart Giant$1
+Craven Hulk$1
+Crush the Weak$1
+Demon Bolt$1
+Doomskar Titan$1
+Dragonkin Berserker$1
+Dual Strike$1
+Dwarven Hammer$1
+Dwarven Reinforcements$1
+Fearless Liberator$1
+Fearless Pup$1
+Frenzied Raider$1
+Frost Bite$1
+Goldspan Dragon$1
+Hagi Mob$1
+Immersturm Raider$1
+Magda, Brazen Outlaw$1
+Open the Omenpaths$1
+Provoke the Trolls$1
+Quakebringer$1
+Reckless Crew$1
+Run Amok$1
+Rune of Speed$1
+Seize the Spoils$1
+Shackles of Treachery$1
+Smashing Success$1
+Squash$1
+Tibalt's Trickery$1
+Toralf, God of Fury$1
+Tormentor's Helm$1
+Tundra Fumarole$1
+Tuskeri Firewalker$1
+Vault Robber$1
+Arachnoform$1
+Battle Mammoth$1
+Blessing of Frost$1
+Blizzard Brawl$1
+Boreal Outrider$1
+Broken Wings$1
+Elderleaf Mentor$1
+Elven Bow$1
+Elvish Warmaster$1
+Esika, God of the Tree$1
+Esika's Chariot$1
+Fynn, the Fangbearer$1
+Glittering Frost$1
+Gnottvold Recluse$1
+Grizzled Outrider$1
+Guardian Gladewalker$1
+Horizon Seeker$1
+Icehide Troll$1
+In Search of Greatness$1
+Jaspera Sentinel$1
+Jorn, God of Winter$1
+King Harald's Revenge$1
+Kolvori, God of Kinship$1
+Littjara Glade-Warden$1
+Mammoth Growth$1
+Masked Vandal$1
+Old-Growth Troll$1
+Path to the World Tree$1
+Ravenous Lindwurm$1
+Realmwalker$1
+Rootless Yew$1
+Roots of Wisdom$1
+Rune of Might$1
+Sarulf's Packmate$1
+Sculptor of Winter$1
+Snakeskin Veil$1
+Spirit of the Aldergard$1
+Struggle for Skemfar$1
+Toski, Bearer of Secrets$1
+Tyvar Kell$1
+Vorinclex, Monstrous Raider$1
+Aegar, the Freezing Flame$1
+Arni Slays the Troll$1
+Ascent of the Worthy$1
+Battle for Bretagard$1
+Battle of Frost and Fire$1
+The Bears of Littjara$1
+Binding the Old Gods$1
+The Bloodsky Massacre$1
+Fall of the Impostor$1
+Firja, Judge of Valor$1
+Firja's Retribution$1
+Forging the Tyrite Sword$1
+Harald, King of Skemfar$1
+Harald Unites the Elves$1
+Immersturm Predator$1
+Invasion of the Giants$1
+Kardur, Doomscourge$1
+Kardur's Vicious Return$1
+Kaya the Inexorable$1
+King Narfi's Betrayal$1
+Koll, the Forgemaster$1
+Koma, Cosmos Serpent$1
+Maja, Bretagard Protector$1
+Moritte of the Frost$1
+Narfi, Betrayer King$1
+Niko Aris$1
+Niko Defies Destiny$1
+The Raven's Warning$1
+Sarulf, Realm Eater$1
+Showdown of the Skalds$1
+Svella, Ice Shaper$1
+The Three Seasons$1
+The Trickster-God's Heist$1
+Vega, the Watcher$1
+Waking the Trolls$1
+Bloodline Pretender$1
+Colossal Plow$1
+Cosmos Elixir$1
+Funeral Longboat$1
+Goldvein Pick$1
+Maskwood Nexus$1
+Pyre of Heroes$1
+Raiders' Karve$1
+Raven Wings$1
+Replicating Ring$1
+Runed Crown$1
+Scorn Effigy$1
+Weathered Runestone$1
+Alpine Meadow$1
+Arctic Treeline$1
+Axgard Armory$1
+Barkchannel Pathway$1
+Blightstep Pathway$1
+Bretagard Stronghold$1
+Darkbore Pathway$1
+Faceless Haven$1
+Gates of Istfell$1
+Glacial Floodplain$1
+Gnottvold Slumbermound$1
+Great Hall of Starnheim$1
+Hengegate Pathway$1
+Highland Forest$1
+Ice Tunnel$1
+Immersturm Skullcairn$1
+Littjara Mirrorlake$1
+Port of Karfell$1
+Rimewood Falls$1
+Shimmerdrift Vale$1
+Skemfar Elderhall$1
+Snowfield Sinkhole$1
+Sulfurous Mire$1
+Surtland Frostpyre$1
+Tyrite Sanctum$1
+Volatile Fjord$1
+Woodland Chasm$1
+The World Tree$1
+Snow-Covered Plains$1
+Snow-Covered Island$1
+Snow-Covered Swamp$1
+Snow-Covered Mountain$1
+Snow-Covered Forest$1
+Valki, God of Lies$1
+Tyvar Kell$1
+Kaya the Inexorable$1
+Niko Aris$1
+Barkchannel Pathway$1
+Blightstep Pathway$1
+Darkbore Pathway$1
+Hengegate Pathway$1
+Starnheim Unleashed$1
+Alrund's Epiphany$1
+Haunting Voyage$1
+Quakebringer$1
+Battle Mammoth$1
+Halvar, God of Battle$1
+Reidane, God of the Worthy$1
+Sigrid, God-Favored$1
+Alrund, God of the Cosmos$1
+Cosima, God of the Voyage$1
+Inga Rune-Eyes$1
+Orvar, the All-Form$1
+Egon, God of Death$1
+Tergrid, God of Fright$1
+Valki, God of Lies$1
+Varragoth, Bloodsky Sire$1
+Arni Brokenbrow$1
+Birgi, God of Storytelling$1
+Magda, Brazen Outlaw$1
+Toralf, God of Fury$1
+Esika, God of the Tree$1
+Esika's Chariot$1
+Fynn, the Fangbearer$1
+Jorn, God of Winter$1
+Kolvori, God of Kinship$1
+Toski, Bearer of Secrets$1
+Vorinclex, Monstrous Raider$1
+Aegar, the Freezing Flame$1
+Firja, Judge of Valor$1
+Harald, King of Skemfar$1
+Kardur, Doomscourge$1
+Koll, the Forgemaster$1
+Koma, Cosmos Serpent$1
+Maja, Bretagard Protector$1
+Moritte of the Frost$1
+Narfi, Betrayer King$1
+Sarulf, Realm Eater$1
+Svella, Ice Shaper$1
+Vega, the Watcher$1
+Vorinclex, Monstrous Raider$1
+Doomskar$1
+Glorious Protector$1
+Rally the Ranks$1
+Resplendent Marshal$1
+Righteous Valkyrie$1
+Runeforge Champion$1
+Search for Glory$1
+Ascendant Spirit$1
+Cosmos Charger$1
+Cyclone Summoner$1
+Graven Lore$1
+Icebreaker Kraken$1
+Mystic Reflection$1
+Reflections of Littjara$1
+Blood on the Snow$1
+Burning-Rune Demon$1
+Crippling Fear$1
+Draugr Necromancer$1
+Dream Devourer$1
+Eradicator Valkyrie$1
+Rise of the Dread Marn$1
+Skemfar Avenger$1
+Calamity Bearer$1
+Dragonkin Berserker$1
+Goldspan Dragon$1
+Reckless Crew$1
+Tibalt's Trickery$1
+Tundra Fumarole$1
+Blessing of Frost$1
+Elvish Warmaster$1
+In Search of Greatness$1
+Old-Growth Troll$1
+Realmwalker$1
+Immersturm Predator$1
+Cosmos Elixir$1
+Maskwood Nexus$1
+Pyre of Heroes$1
+Faceless Haven$1
+Tyrite Sanctum$1
+The World Tree$1
+Valkyrie Harbinger$1
+Surtland Elementalist$1
+Cleaving Reaper$1
+Surtland Flinger$1
+Canopy Tactician$1
+Armed and Armored$1
+Starnheim Aspirant$1
+Warchanter Skald$1
+Youthful Valkyrie$1
+Absorb Identity$1
+Giant's Grasp$1
+Elderfang Ritualist$1
+Renegade Reaper$1
+Thornmantle Striker$1
+Bearded Axe$1
+Fire Giant's Fury$1
+Gilded Assault Cart$1
+Elven Ambush$1
+Gladewalker Ritualist$1
+Rampage of the Valkyries$1
+Plains$1
+Island$1
+Swamp$1
+Mountain$1
+Forest$1
+Realmwalker$1
+Reflections of Littjara$1
+Usher of the Fallen$1
+Strategic Planning$1
+Poison the Cup$1
+Frost Bite$1
+Masked Vandal$1

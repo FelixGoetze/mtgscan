@@ -21,7 +21,10 @@ FORMAT = "[%(asctime)s %(filename)s:%(lineno)s:%(funcName)s()] %(message)s"
 DIR_SAMPLES = Path(__file__).parent / "samples"
 rec = mtgscan.text.MagicRecognition(FILE_ALL_CARDS, FILE_KEYWORDS, max_ratio_diff=0.25)
 ocr_all = [
-    Azure(azure_vision_key=os.environ['AZURE_VISION_KEY'], azure_vision_endpoint=os.environ['AZURE_VISION_ENDPOINT'])
+    Azure(
+        azure_vision_key=os.environ["AZURE_VISION_KEY"],
+        azure_vision_endpoint=os.environ["AZURE_VISION_ENDPOINT"],
+    )
 ]
 errors = {str(ocr): [] for ocr in ocr_all}
 
@@ -35,20 +38,22 @@ for sample in DIR_SAMPLES.iterdir():
         print("No image found")
         continue
 
-    for ocr in ocr_all:
+        for ocr in ocr_all:
         print(f"-- OCR {ocr}")
         ocr_path = sample / str(ocr)
         ocr_path.mkdir(exist_ok=True)
         for handler in logging.root.handlers[:]:
             logging.root.removeHandler(handler)
-        logging.basicConfig(level=logging.INFO,
-                            format=FORMAT,
-                            datefmt='%I:%M:%S',
-                            filename=sample / 'test.log',
-                            filemode='w')
+        logging.basicConfig(
+            level=logging.INFO,
+            format=FORMAT,
+            datefmt="%I:%M:%S",
+            filename=sample / "test.log",
+            filemode="w",
+        )
         try:
             with open(ocr_path / "errors.txt", "r") as f:
-                errors_last = int(f.readlines()[-1].split(' ')[-1])
+                errors_last = int(f.readlines()[-1].split(" ")[-1])
         except (FileNotFoundError, IndexError):
             errors_last = float("inf")
         box_texts = BoxTextList()
