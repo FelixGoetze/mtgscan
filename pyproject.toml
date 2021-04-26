@@ -1,13 +1,14 @@
 [tool.poetry]
+name = "mtgscan"
+version = "1.0.6"
+description = "Convert an image containing Magic cards to decklist"
 authors = ["qfortier <qpfortier@gmail.com>"]
 description = "Convert an image containing Magic cards to decklist"
 homepage = "https://github.com/fortierq/MTGScan"
 keywords = ["mtg", "scan", "OCR", "magic", "cards", "computer vision"]
 license = "MIT"
-name = "mtgscan"
 readme = "README.md"
 repository = "https://github.com/fortierq/MTGScan"
-version = "1.0.3"
 
 [tool.poetry.dependencies]
 boto3 = "^1.16.59"

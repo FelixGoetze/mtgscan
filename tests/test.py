@@ -1,6 +1,5 @@
 from datetime import datetime
 import logging
-import os
 from pathlib import Path
 import sys
 
@@ -12,10 +11,8 @@ import mtgscan.deck
 from mtgscan.ocr.azure import Azure
 import mtgscan.text
 
-FILE_ALL_CARDS = DIR_DATA / "all_cards.txt"
-URL_ALL_CARDS = "https://mtgjson.com/api/v5/VintageAtomic.json"
-FILE_KEYWORDS = DIR_DATA / "Keywords.json"
-URL_KEYWORDS = "https://mtgjson.com/api/v5/Keywords.json"
+FILE_ALL_CARDS = str(DIR_DATA / "all_cards.txt")
+FILE_KEYWORDS = str(DIR_DATA / "Keywords.json")
 
 FORMAT = "[%(asctime)s %(filename)s:%(lineno)s:%(funcName)s()] %(message)s"
 DIR_SAMPLES = Path(__file__).parent / "samples"
@@ -32,7 +29,7 @@ for sample in DIR_SAMPLES.iterdir():
     print(f"- Testing {sample}")
     image = None
     for f in sample.iterdir():
-        if f.name.startswith("image"):
+        if f.name.endswith("jpg") or f.name.endswith("png"):
             image = f.name
     if image is None:
         print("No image found")
@@ -70,9 +67,8 @@ for sample in DIR_SAMPLES.iterdir():
 
         deck_ocr = rec.box_texts_to_deck(box_texts)
         deck_ocr.save(ocr_path / "deck.txt")
-        deck = mtgscan.deck.Deck()
-        deck.load(sample / "deck.txt")
-        print(f"Number of cards found: {len(deck)}")
+        print(f"Number of cards found: {len(deck_ocr)}")
+        deck = mtgscan.deck.Deck.load(sample / "deck.txt")
         diff = deck.diff(deck_ocr)
         errors[str(ocr)].append(diff / len(deck))
         print(f"Errors: {diff} (last: {errors_last})")
