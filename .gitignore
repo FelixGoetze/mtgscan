@@ -143,3 +143,6 @@ dmypy.json
 cython_debug/
 data/all_cards.txt
 run.sh
+
+# json
+*.json

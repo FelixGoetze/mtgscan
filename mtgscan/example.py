@@ -21,22 +21,41 @@ def load_data():
 
 rec = load_data()
 
+
 # %%
-# st.write("Upload a deck")
+# %% Kaldheim Card prices
+import json
+
+with open("default-cards-20210322090255.json", "r") as read_file:
+    data = json.load(read_file)
+prices = {}
+for item in data:
+    if item.get("set_name") == "Kaldheim":
+        prices[item.get("name")] = item.get("prices").get("usd")
+
+# %% Upload File
 uploaeded_deck = st.file_uploader("Upload a deck", type=["jpg", "jpeg"])
 
-# %%
-
+# %% Get Decklist
 if uploaeded_deck is not None:
+    # %%
+    # Write uploaded Image to disk
     with open("deck.jpg", "wb") as f:
         f.write(uploaeded_deck.getbuffer())
+    # Get OCRed Text from Azure
     box_texts = azure_compute.image_to_box_texts(
         "deck.jpg"
         # "https://user-images.githubusercontent.com/49362475/105632710-fa07a180-5e54-11eb-91bb-c4710ef8168f.jpeg"
     )
+    #
     deck = rec.box_texts_to_deck(box_texts)
-    print(deck)
-    st.write(deck)
+
+    # print prices
+    for card in deck.maindeck.cards:
+        st.write(card)
+        for key in prices.keys():
+            if key.startswith(card):
+                st.write(prices[key])
 
     # %%
     box_cards = rec.box_texts_to_cards(box_texts)
@@ -44,15 +63,16 @@ if uploaeded_deck is not None:
     box_cards.save_image("deck.jpg", "image.jpg")
     st.image("image.jpg")
 
-# # # %%
-# for card in deck.maindeck.cards:
-#     print(card)
-# # # %%
-# import requests
 
-# price = requests.get(
-#     "http://magictcgprices.appspot.com/api/cfb/price.json?cardname=Dark%20Confidant&setname=ravnica"
-# )
-# # %%
-# print(price.text)
-# # %%
+# %% Kaldheim Card prices
+import json
+
+with open("default-cards-20210322090255.json", "r") as read_file:
+    data = json.load(read_file)
+prices = {}
+for item in data:
+    if item.get("set_name") == "Kaldheim":
+        prices[item.get("name")] = item.get("prices").get("usd")
+
+
+# %%
