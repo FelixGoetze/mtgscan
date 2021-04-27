@@ -1,0 +1,275 @@
+Beledros Witherbloom	$ 17.40
+Professor Onyx	$ 15.87
+Galazeth Prismari	$ 13.99
+Wandering Archaic	$ 8.99
+Shadrix Silverquill	$ 5.69
+Mila, Crafty Companion	$ 5.49
+Tanazir Quandrix	$ 5.14
+Velomachus Lorehold	$ 4.99
+Jadzi, Oracle of Arcavios	$ 4.99
+Rowan, Scholar of Sparks	$ 4.49
+Kasmina, Enigma Sage	$ 3.99
+Extus, Oriq Overlord	$ 3.85
+Body of Research	$ 3.49
+Prismari Command	$ 3.08
+Magma Opus	$ 2.99
+Ecological Appreciation	$ 2.99
+Crackle with Power	$ 2.99
+Harness Infinity	$ 2.99
+Elite Spellbinder	$ 2.93
+Vanishing Verse	$ 2.79
+Blex, Vexing Pest	$ 2.79
+Sedgemoor Witch	$ 2.48
+Blot Out the Sky	$ 2.45
+Double Major	$ 2.35
+Dragon's Approach	$ 2.11
+Necroblossom Snarl	$ 1.99
+Hofri Ghostforge	$ 1.98
+Solve the Equation	$ 1.84
+Frostboil Snarl	$ 1.83
+Clever Lumimancer	$ 1.80
+Vineglimmer Snarl	$ 1.79
+Mavinda, Students' Advocate	$ 1.79
+Archmage Emeritus	$ 1.74
+Culling Ritual	$ 1.74
+Shineshadow Snarl	$ 1.64
+Strict Proctor	$ 1.58
+Furycalm Snarl	$ 1.50
+Valentin, Dean of the Vein	$ 1.29
+Rushed Rebirth	$ 1.29
+Fracture	$ 1.14
+The Biblioplex	$ 1.13
+Strixhaven Stadium	$ 1.12
+Witherbloom Command	$ 0.99
+Baleful Mastery	$ 0.99
+Rip Apart	$ 0.96
+Mascot Exhibition	$ 0.79
+Storm-Kiln Artist	$ 0.69
+Augmenter Pugilist	$ 0.69
+Daemogoth Titan	$ 0.62
+Quandrix Command	$ 0.49
+Conspiracy Theorist	$ 0.49
+Multiple Choice	$ 0.49
+Plumb the Forbidden	$ 0.49
+Witherbloom Apprentice	$ 0.39
+Codie, Vociferous Codex	$ 0.39
+Semester's End	$ 0.39
+Selfless Glyphweaver	$ 0.39
+Pestilent Cauldron	$ 0.39
+Test of Talents	$ 0.39
+Plargg, Dean of Chaos	$ 0.35
+Shaile, Dean of Radiance	$ 0.35
+Radiant Scrollwielder	$ 0.35
+Blade Historian	$ 0.35
+Sparring Regimen	$ 0.35
+Leonin Lightscribe	$ 0.35
+Tend the Pests	$ 0.35
+Confront the Past	$ 0.29
+Flamescroll Celebrant	$ 0.29
+Venerable Warsinger	$ 0.29
+Manifestation Sage	$ 0.29
+Elemental Expressionist	$ 0.29
+Mortality Spear	$ 0.29
+Reconstruct History	$ 0.26
+Lorehold Command	$ 0.25
+Silverquill Command	$ 0.25
+Dragonsguard Elite	$ 0.25
+Professor of Symbology	$ 0.25
+Silverquill Apprentice	$ 0.25
+Quandrix Apprentice	$ 0.25
+Prismari Apprentice	$ 0.25
+Lorehold Apprentice	$ 0.25
+Uvilda, Dean of Perfection	$ 0.25
+Kianne, Dean of Substance	$ 0.25
+Torrent Sculptor	$ 0.25
+Enthusiastic Study	$ 0.25
+Field Trip	$ 0.25
+Guiding Voice	$ 0.25
+Study Break	$ 0.25
+Environmental Sciences	$ 0.25
+Rise of Extus	$ 0.25
+Dueling Coach	$ 0.25
+Thunderous Orator	$ 0.25
+Returned Pastcaller	$ 0.25
+Lorehold Excavation	$ 0.25
+Quintorius, Field Historian	$ 0.25
+Illuminate History	$ 0.25
+Lorehold Campus	$ 0.25
+Go Blank	$ 0.25
+Efreet Flamepainter	$ 0.25
+Reduce to Memory	$ 0.25
+Thrilling Discovery	$ 0.25
+Grinning Ignus	$ 0.25
+Creative Outburst	$ 0.25
+Academic Probation	$ 0.25
+Explosive Welcome	$ 0.25
+Fortifying Draught	$ 0.25
+Master Symmetrist	$ 0.25
+Mage Hunter	$ 0.25
+Stonebinder's Familiar	$ 0.25
+Igneous Inspiration	$ 0.25
+Practical Research	$ 0.25
+Rootha, Mercurial Artist	$ 0.25
+Culmination of Studies	$ 0.25
+Maelstrom Muse	$ 0.25
+Teachings of the Archaics	$ 0.25
+Golden Ratio	$ 0.25
+Kelpie Guide	$ 0.25
+Academic Dispute	$ 0.25
+Start from Scratch	$ 0.25
+Hall of Oracles	$ 0.25
+Verdant Mastery	$ 0.25
+Draconic Intervention	$ 0.25
+Ardent Dustspeaker	$ 0.25
+Tenured Inkcaster	$ 0.25
+Hall Monitor	$ 0.25
+Zimone, Quandrix Prodigy	$ 0.25
+Eyetwitch	$ 0.25
+Expressive Iteration	$ 0.25
+Reflective Golem	$ 0.25
+Aether Helix	$ 0.25
+Fervent Mastery	$ 0.25
+Eureka Moment	$ 0.25
+Accomplished Alchemist	$ 0.25
+Emergent Sequence	$ 0.25
+Team Pennant	$ 0.25
+Quandrix Cultivator	$ 0.25
+Access Tunnel	$ 0.25
+Dramatic Finale	$ 0.25
+Devastating Mastery	$ 0.25
+Secret Rendezvous	$ 0.25
+Basic Conjuration	$ 0.25
+Necrotic Fumes	$ 0.25
+Dream Strix	$ 0.25
+Mercurial Transformation	$ 0.25
+Closing Statement	$ 0.25
+Silverquill Silencer	$ 0.25
+Show of Confidence	$ 0.25
+Karok Wrangler	$ 0.25
+Decisive Denial	$ 0.25
+Bookwurm	$ 0.25
+Detention Vortex	$ 0.25
+Mascot Interception	$ 0.25
+Symmetry Sage	$ 0.25
+Killian, Ink Duelist	$ 0.25
+Humiliate	$ 0.25
+Gnarled Professor	$ 0.25
+Shadewing Laureate	$ 0.25
+Retriever Phoenix	$ 0.25
+Overgrown Arch	$ 0.25
+Containment Breach	$ 0.25
+Deadly Brew	$ 0.25
+Honor Troll	$ 0.25
+Dina, Soul Steeper	$ 0.25
+Exponential Growth	$ 0.25
+Zephyr Boots	$ 0.25
+Callous Bloodmage	$ 0.25
+Poet's Quill	$ 0.25
+Tempted by the Oriq	$ 0.25
+Brackish Trudge	$ 0.25
+Reject	$ 0.25
+Divide by Zero	$ 0.25
+Ingenious Mastery	$ 0.25
+Oriq Loremage	$ 0.25
+Devouring Tendrils	$ 0.25
+Daemogoth Woe-Eater	$ 0.25
+Spell Satchel	$ 0.25
+Pop Quiz	$ 0.24
+Teach by Example	$ 0.24
+Umbral Juke	$ 0.24
+Tome Shredder	$ 0.24
+Snow Day	$ 0.24
+Wormhole Serpent	$ 0.24
+Combat Professor	$ 0.23
+Make Your Mark	$ 0.23
+Mentor's Guidance	$ 0.23
+Flunk	$ 0.23
+Beaming Defiance	$ 0.22
+Heated Debate	$ 0.22
+Campus Guide	$ 0.22
+Spectacle Mage	$ 0.22
+Resculpt	$ 0.22
+Frost Trickster	$ 0.22
+Promising Duskmage	$ 0.22
+Spiteful Squad	$ 0.22
+Scurrid Colony	$ 0.22
+Twinscroll Shaman	$ 0.22
+Eager First-Year	$ 0.21
+First Day of Class	$ 0.21
+Star Pupil	$ 0.21
+Stonebound Mentor	$ 0.21
+Lorehold Pledgemage	$ 0.21
+Curate	$ 0.21
+Illustrious Historian	$ 0.21
+Elemental Summoning	$ 0.21
+Prismari Pledgemage	$ 0.21
+Quandrix Campus	$ 0.21
+Blood Age General	$ 0.21
+Elemental Masterpiece	$ 0.21
+Crushing Disappointment	$ 0.21
+Expel	$ 0.21
+Serpentine Curve	$ 0.21
+Inkling Summoning	$ 0.21
+Owlin Shieldmage	$ 0.21
+Fuming Effigy	$ 0.21
+Pilgrim of the Ages	$ 0.21
+Exhilarating Elocution	$ 0.21
+Pillardrop Warden	$ 0.21
+Hunt for Specimens	$ 0.21
+Professor of Zoomancy	$ 0.21
+Witherbloom Pledgemage	$ 0.21
+Arcane Subtraction	$ 0.21
+Leech Fanatic	$ 0.21
+Mage Duel	$ 0.21
+Reckless Amplimancer	$ 0.21
+Lash of Malice	$ 0.21
+Pest Summoning	$ 0.20
+Waterfall Aerialist	$ 0.20
+Expanded Anatomy	$ 0.20
+Introduction to Annihilation	$ 0.20
+Introduction to Prophecy	$ 0.20
+Ageless Guardian	$ 0.20
+Spirit Summoning	$ 0.20
+Bury in Books	$ 0.20
+Relic Sloth	$ 0.20
+Prismari Campus	$ 0.20
+Defend the Campus	$ 0.20
+Sudden Breakthrough	$ 0.20
+Fractal Summoning	$ 0.20
+Archway Commons	$ 0.20
+Quandrix Pledgemage	$ 0.20
+Arrogant Poet	$ 0.20
+Cogwork Archivist	$ 0.20
+Oggyar Battle-Seer	$ 0.20
+Letter of Acceptance	$ 0.20
+Square Up	$ 0.20
+Leyline Invocation	$ 0.20
+Essence Infusion	$ 0.20
+Charge Through	$ 0.20
+Biomathematician	$ 0.20
+Needlethorn Drake	$ 0.20
+Soothsayer Adept	$ 0.20
+Novice Dissector	$ 0.20
+Silverquill Campus	$ 0.20
+Silverquill Pledgemage	$ 0.20
+Moldering Karok	$ 0.20
+Big Play	$ 0.20
+Blood Researcher	$ 0.20
+Witherbloom Campus	$ 0.20
+Professor's Warning	$ 0.20
+Unwilling Ingredient	$ 0.20
+Pigment Storm	$ 0.20
+Burrog Befuddler	$ 0.20
+Excavated Wall	$ 0.20
+Infuse with Vitality	$ 0.20
+Pillardrop Rescuer	$ 0.20
+Spined Karok	$ 0.20
+Springmane Cervin	$ 0.20
+Mage Hunters' Onslaught	$ 0.20
+Tangletrap	$ 0.20
+Stonerise Spirit	$ 0.20
+Vortex Runner	$ 0.20
+Specter of the Fens	$ 0.20
+Biblioplex Assistant	$ 0.20
+Bayou Groff	$ 0.20
+Cram Session	$ 0.20
