@@ -8,38 +8,38 @@ import json
 import pandas as pd
 from PIL import Image
 
-azure_compute = Azure(
-    azure_vision_key=os.environ["AZURE_VISION_KEY"],
-    azure_vision_endpoint=os.environ["AZURE_VISION_ENDPOINT"],
-)
+# azure_compute = Azure(
+#     azure_vision_key=os.environ["AZURE_VISION_KEY"],
+#     azure_vision_endpoint=os.environ["AZURE_VISION_ENDPOINT"],
+# )
 
 
 # %% Card prices from scryfall api
-# @st.cache()
-# def load_prices():
-#     with open("default-cards-20210502210315.json", "r") as read_file:
-#         data = json.load(read_file)
-#     prices = {}
-#     with open("Strixhaven.txt", "a") as the_file:
-#         for item in data:
-#             if item.get("set_name") == "Strixhaven: School of Mages" or (
-#                 item.get("set_name") == "Strixhaven Mystical Archive"
-#                 and item.get("lang") == "en"
-#             ):
-#                 the_file.write(item.get("name").split(" // ")[0] + "$1\n")
-#                 # if item.get("set_name") == "Kaldheim":
-#                 if item.get("prices").get("usd") is None:
-#                     prices[item.get("name").split(" // ")[0]] = float(99)
-#                 else:
-#                     prices[item.get("name").split(" // ")[0]] = float(
-#                         item.get("prices").get("usd")
-#                     )
-#     with open("prices.txt", "w") as file:
-#         file.write(json.dumps(prices))
-#     return prices
+@st.cache()
+def load_prices():
+    with open("default-cards-20210502210315.json", "r") as read_file:
+        data = json.load(read_file)
+    prices = {}
+    with open("Strixhaven.txt", "w") as the_file:
+        for item in data:
+            if item.get("set_name") == "Strixhaven: School of Mages" or (
+                item.get("set_name") == "Strixhaven Mystical Archive"
+                and item.get("lang") == "en"
+            ):
+                the_file.write(item.get("name").split(" // ")[0] + "$1\n")
+                # if item.get("set_name") == "Kaldheim":
+                if item.get("prices").get("usd") is None:
+                    prices[item.get("name").split(" // ")[0]] = float(99)
+                else:
+                    prices[item.get("name").split(" // ")[0]] = float(
+                        item.get("prices").get("usd")
+                    )
+    with open("prices.txt", "w") as file:
+        file.write(json.dumps(prices))
+    return prices
 
 
-# prices = load_prices()
+prices = load_prices()
 
 # %% card prices from json dictionary
 @st.cache()
