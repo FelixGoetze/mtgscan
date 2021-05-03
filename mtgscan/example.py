@@ -1,7 +1,7 @@
 # %%
 from pathlib import Path
-from text import MagicRecognition
-from ocr.azure import Azure
+from mtgscan.text import MagicRecognition
+from mtgscan.ocr.azure import Azure
 import streamlit as st
 import os
 import json
