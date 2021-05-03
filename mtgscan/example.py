@@ -8,10 +8,10 @@ import json
 import pandas as pd
 from PIL import Image
 
-# azure_compute = Azure(
-#     azure_vision_key=os.environ["AZURE_VISION_KEY"],
-#     azure_vision_endpoint=os.environ["AZURE_VISION_ENDPOINT"],
-# )
+azure_compute = Azure(
+    azure_vision_key=os.environ["AZURE_VISION_KEY"],
+    azure_vision_endpoint=os.environ["AZURE_VISION_ENDPOINT"],
+)
 
 
 # %% Card prices from scryfall api
@@ -54,7 +54,7 @@ prices = load_json_prices()
 @st.cache(allow_output_mutation=True)
 def load_data():
     rec = MagicRecognition(
-        file_all_cards="Strixhaven.txt", file_keywords=Path("Keywords.json")
+        file_all_cards="strixhaven.txt", file_keywords=Path("Keywords.json")
     )
     return rec
 
